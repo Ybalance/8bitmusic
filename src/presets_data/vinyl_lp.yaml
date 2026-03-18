@@ -1,0 +1,10 @@
+name: Worn Vinyl LP
+description: Simulate a scratched vinyl record on a turntable.
+category: Vintage
+engine_type: dsp
+style: vinyl
+params:
+  noise_level: 0.03
+  crackle_density: 0.002
+  wow_rate: 0.5
+  wow_depth: 0.003

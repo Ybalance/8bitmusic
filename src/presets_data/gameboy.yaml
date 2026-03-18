@@ -1,0 +1,8 @@
+name: Game Boy (1989)
+description: Simulate the 4-channel PSG sound of the original Game Boy.
+category: Gaming
+engine_type: dsp
+style: 8bit
+params:
+  bit_depth: 4
+  downsample_factor: 8

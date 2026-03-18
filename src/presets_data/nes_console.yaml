@@ -1,0 +1,8 @@
+name: NES Console (1985)
+description: Simulate the 2A03 chip sound of the Nintendo Entertainment System.
+category: Gaming
+engine_type: dsp
+style: 8bit
+params:
+  bit_depth: 8
+  downsample_factor: 6

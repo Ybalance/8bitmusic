@@ -1,0 +1,7 @@
+name: Public Payphone
+description: Simulate the limited bandwidth and noise of a public telephone.
+category: Communication
+engine_type: dsp
+style: telephone
+params:
+  connection_quality: bad

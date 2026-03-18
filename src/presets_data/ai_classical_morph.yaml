@@ -1,0 +1,7 @@
+name: AI Classical Morph
+description: Transform input audio into a classical style using neural morphing.
+category: AI
+engine_type: ai
+style: genre_morph
+params:
+  genre: classical
